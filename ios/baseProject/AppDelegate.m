@@ -16,7 +16,7 @@
 - (BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions
 {
 
-  [GMSServices provideAPIKey:@"AIzaSyDoGx4E--J0hy0NBrKqAYOdC38bnTa_8Vs"];
+  [GMSServices provideAPIKey:@"___GMAPS_API_KEY___"];
 
   NSURL *jsCodeLocation;
 
